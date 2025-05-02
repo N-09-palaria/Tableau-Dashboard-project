@@ -4,6 +4,7 @@
 A powerful, interactive Tableau dashboard that visualizes key sales performance metrics to help stakeholders analyze trends, identify high-performing segments, and make data-driven decisions.
 
 ---
+https://github.com/N-09-palaria/Tableau-Dashboard-project/blob/4e60a8aed4046f3ffb643b9ec27cbc5f21ddabec/Sales%20Dashboard%20overview.PNG
 
 ## 📁 Project Overview
 
