@@ -35,7 +35,7 @@ The project uses the [Superstore Sales Dataset](https://www.kaggle.com/datasets/
 
 | Overview Dashboard | 
 |--------------------|
-| ![Dashboard](./Screenshots/Dashboard_Overview.png) | 
+| ![Dashboard] | https://github.com/N-09-palaria/Tableau-Dashboard-project/blob/3b19a9f88acb406228cdd3dfc1f7d600b1d05f72/Sales%20Dashboard%20overview.PNG
 
 ---
 
