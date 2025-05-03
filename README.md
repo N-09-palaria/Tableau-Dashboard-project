@@ -1,48 +1,97 @@
 # Tableau-Dashboard-project
-# 📊 Sales Performance Dashboard – Tableau Project
-
-A powerful, interactive Tableau dashboard that visualizes key sales performance metrics to help stakeholders analyze trends, identify high-performing segments, and make data-driven decisions.
-
----
-https://github.com/N-09-palaria/Tableau-Dashboard-project/blob/4e60a8aed4046f3ffb643b9ec27cbc5f21ddabec/Sales%20Dashboard%20overview.PNG
-
-## 📁 Project Overview
-
-This dashboard uses sales data to provide insights across:
-- Regions (East, West, Central, South)
-- Customer Segments (Consumer, Corporate, Home Office)
-- Sales Representatives
-
-It includes key performance indicators (KPIs) such as:
-- ✅ **Total Sales**
-- 💰 **Total Profit**
-- 📦 **Total Quantity Sold**
-- 📈 **YoY Performance Trends**
-
-Interactive charts, maps, and filters allow users to drill down into specific business segments and track revenue patterns efficiently.
 
 ---
 
-## 📊 Dashboard Features
+## 📌 Key Features
 
-- **KPI Cards**: Show high-level metrics at a glance
-- **Regional Performance Map**: Geographic visualization of sales and profit
-- **Segment & Manager Filters**: Slice and dice data for better targeting
-- **Time Series Line Charts**: Analyze monthly/quarterly trends
-- **Category Breakdown**: Identify which product lines perform best
-
-📸 *Screenshots included in the `Screenshots/` folder for easy reference.*
-
----
-
-## 📦 Dataset
-
-- **Source**: [Kaggle – Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
-- **Format**: `.CSV`
-- **Rows**: ~10,000
-- **Fields**: Order ID, Product, Sales, Quantity, Profit, Customer Segment, Region, Category, Sub-Category, Order Date, etc.
+- ✅ **KPI Cards**: Total Sales, Profit, Quantity, and Discount
+- 📈 **Time Series Analysis**: Monthly sales and profit trends over years
+- 🗺️ **Geo Visualization**: Regional performance by U.S. states
+- 📊 **Category Breakdown**: Top-performing product categories and sub-categories
+- 🔍 **Interactive Filters**: Segment, Region, Category, and Manager
+- 🧭 **YoY Comparison**: Easily track year-over-year performance shifts
 
 ---
 
-## 📂 Repository Structure
+## 📊 KPIs Tracked
+
+| KPI               | Description                                                |
+|------------------|------------------------------------------------------------|
+| Total Sales       | Gross revenue generated                                   |
+| Profit            | Net earnings after discounts and costs                    |
+| Order Quantity    | Number of items sold                                      |
+| Average Discount  | Mean discount applied per order                           |
+| YoY Growth        | Year-over-year comparison of sales and profit             |
+
+---
+
+## 📂 Dataset Source
+
+The project uses the [Superstore Sales Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final) available on Kaggle. This dataset includes sales records, customer information, shipping details, and product data for a fictional U.S. retail company.
+
+---
+
+## 📸 Screenshots
+
+| Overview Dashboard | 
+|--------------------|
+| ![Dashboard](./Screenshots/Dashboard_Overview.png) | 
+
+---
+
+## 🚀 Getting Started
+
+To view or interact with this dashboard:
+
+1. **Download Tableau Public** (free): [https://public.tableau.com/en-us/s/download](https://public.tableau.com/en-us/s/download)
+2. Clone this repository or download the ZIP
+3. Open the `.twb` file located in `/Tableau Dashboards/` with Tableau Public
+
+---
+
+## 📈 Insights Summary (from `Insights_Report.pdf`)
+
+- The **West region** consistently outperformed others in both sales and profit.
+- **Technology products** yielded the highest profit margins, while **Office Supplies** showed lower YoY growth.
+- Sales spiked in **Q4 each year**, indicating strong holiday season demand.
+- **Top managers** can be benchmarked for performance-based incentives.
+
+---
+
+## 🧠 Skills Demonstrated
+
+- Business KPI Analysis  
+- Tableau Visualization Techniques  
+- Dashboard Interactivity Design  
+- Trend & Time Series Analysis  
+- Geographic Data Interpretation  
+- Analytical Storytelling
+
+---
+
+## 💡 Future Improvements
+
+- Connect to a live Google Sheets or SQL backend
+- Add a customer retention/churn view
+- Include forecasting using Tableau’s built-in model
+
+---
+
+## 📄 License
+
+This project is under the MIT License. You may use or modify it with attribution.
+
+---
+
+## 🙋‍♀️ Author
+
+**Nikita Palaria**  
+📧 [YourEmail@example.com]  
+🔗 [LinkedIn Profile URL]  
+🌐 From Uttarakhand, MBA (Finance & Analytics)
+
+---
+
+
+
 
