@@ -1,5 +1,5 @@
 # Tableau-Dashboard-project
-
+An interactive Tableau dashboard designed to analyze and visualize sales performance across regions, segments, and time, helping businesses uncover actionable insights.
 ---
 
 ## 📌 Key Features
@@ -88,7 +88,7 @@ This project is under the MIT License. You may use or modify it with attribution
 **Nikita Palaria**  
 📧 [YourEmail@example.com]  
 🔗 [LinkedIn Profile URL]  
-🌐 From Uttarakhand, MBA (Finance & Analytics)
+🌐  MBA (Finance & Analytics)
 
 ---
 
